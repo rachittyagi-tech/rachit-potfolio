@@ -17,7 +17,7 @@ export const profile = {
   ],
   photoPath: '/images/profile.jpg',
   photoAlt: 'Rachit Tyagi — AI Engineer and Python Full Stack Developer',
-  resumePath: '/resume/Rachit-Tyagi-Resume.pdf',
+  resumePath: '/resume/rachit-resume.pdf',
   heroBadges: ['Python', 'FastAPI', 'React', 'PostgreSQL', 'AI / LLM'],
   quickFacts: ['B.Tech CSE', 'AKTU', 'CGPA: 6.56', 'AI / GenAI Focus', 'Python Backend', 'Full-Stack Development'],
 }
